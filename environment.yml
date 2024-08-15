@@ -1,0 +1,10 @@
+---
+name: cpu-vs-gpu
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - pip:
+    - tensorflow==2.17.0
